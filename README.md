@@ -1,0 +1,2 @@
+# latihangit
+ini cuma latihan
